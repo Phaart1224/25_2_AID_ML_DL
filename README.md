@@ -26,15 +26,15 @@ AID 동아리에서 진행하는 **머신러닝·딥러닝 기초 스터디**입
 | 03   | 10-넷째주 | Ch4. 분류 알고리즘   | 이름  [신수민]    | [[칫수뛔이]](https://velog.io/@moonwalker04/Chapter-04-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B6%84%EB%A5%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) · [[신수민]](https://velog.io/@rambutan1010/Chapter-04) · [[조승현]](https://velog.io/@jo1579/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EB%94%A5-chapter-4) | - [✓] 완료 |
 | 04   | 11-첫째주 | Ch5. 트리 모델     | 이름  [X]    | [[칫수뛔이]](https://velog.io/@moonwalker04/Chapter-05-%ED%8A%B8%EB%A6%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) · [[신수민]](https://velog.io/@rambutan1010/Chapter-05) · [[조승현]](https://velog.io/@jo1579/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EB%94%A5-Chapter-5-iqg8wtyb) | - [✓] 완료 |
 | 05   | 11-둘째주 | Ch6. 비지도 학습 | 이름 [칫수뛔이] | [[칫수뛔이]](https://velog.io/@moonwalker04/Chapter-06-%EB%B9%84%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5) · [[신수민]](https://velog.io/@rambutan1010/Chapter-06) · [[조승현]](https://velog.io/@jo1579/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EB%94%A5-Chapter-6) | - [✓] 완료 |
-| 06   | 11-셋째주 | Ch7. 딥러닝 입문 | 이름        | [[칫수뛔이]]() · [[신수민]]() · [[조승현]]() | - [ ] 완료 |
+| 06   | 11-셋째주 | Ch7. 딥러닝 입문 | 이름   [조승현] | [[칫수뛔이]](https://velog.io/@moonwalker04/Chapter-07-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4) · [[신수민]](https://velog.io/@rambutan1010/Chapter-07) · [[조승현]](https://velog.io/@jo1579/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EB%94%A5-chapter-7) | - [✓] 완료 |
 | 07   | 11-넷째주 | Ch8. CNN/이미지   | 이름        | [[칫수뛔이]]() · [[신수민]]() · [[조승현]]() | - [ ] 완료 |
 | 08   | 12-첫째주 | Ch9. RNN/텍스트   | 이름        | [[칫수뛔이]]() · [[신수민]]() · [[조승현]]() | - [ ] 완료 |
 
 ## 참여자
 
 * 조승현 (스터디장)
-* 칫수뛔이
-* 신수민
+* [칫수뛔이](https://github.com/CharleyThway)
+* [신수민](https://github.com/rambutan1010)
 
 ```
 
